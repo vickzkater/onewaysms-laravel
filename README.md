@@ -82,7 +82,7 @@ If you come across any issue/bug please [report them here](https://github.com/vi
 
 ## License
 
-GoSms is open-sourced software built by KINIDI Tech and contributors and licensed under the [MIT license](http://opensource.org/licenses/MIT).
+OnewaySms is open-sourced software built by KINIDI Tech and contributors and licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
 ## Credits
 
